@@ -1,15 +1,8 @@
 <h2> Nice to meet you 👋 </h2>
-<img align='left' src="https://github.com/user-attachments/assets/f5e17278-a40b-49a1-8010-0ee240cc7db3" width="150">
+
 <p>
-  Matej Kokošinek (BSc.)
-  <br />
-  Senior iOS Engineer
-  <br />
-  <br />
   <em>As a knowledgeable, accomplished, and grounded expert with 10+ years professional experience of the iOS ecosystem, I excel in end-to-end design, development, and optimization of high-quality application features and products.</em>
 </p>
-
-<br />
 
 ### 🧳 History
 - 2025 - Contractor (self-employed)
