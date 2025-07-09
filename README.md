@@ -4,7 +4,7 @@
   <em>As a knowledgeable, accomplished, and grounded expert with 10+ years professional experience of the iOS ecosystem, I excel in end-to-end design, development, and optimization of high-quality application features and products.</em>
 </p>
 
-### 🧳 History
+## 🧳 History
 - 2025 - Contractor (self-employed)
   - iOS Engineer at [Shapegames](https://www.shapegames.com)/[Kambi](https://www.kambi.com)
 - 2023 - iOS engineer at [Kamino](https://www.netcetera.com/stories/news/Kamino-Aquisition.html)
@@ -16,7 +16,7 @@
 
 <br />
 
-### 🛠️ Skills
+## 🛠️ Skills
 
 - <span>
   <img src="https://img.shields.io/badge/Swift-Informational?style=flat&logo=swift&logoColor=%23F05138&labelColor=%23FFFFFF&color=%23FFFFFF" />
@@ -42,47 +42,91 @@
 
 <br />
 
-### 📱 Projects
-#### [HeroHub: Tinder for D&D](https://apps.apple.com/si/app/herohub-find-d-d-players/id6466105989)
-- Platform: iOS, iPadOS
-- Tech stack: Swift6, SwiftUI, Structured Concurrency (actors, async/await, task), Combine, REST service design, Authentication, SightEngine, StreamChat
+## 📱 Projects
 
+<img align='left' src="https://github.com/user-attachments/assets/69c075cd-f04a-4948-ba7e-c04e85bef4a2" width="70">
+
+#### [HeroHub: Tinder for D&D](https://apps.apple.com/si/app/herohub-find-d-d-players/id6466105989)
+iOS, iPadOS
+
+Technology:
+- Swift6
+- SwiftUI
+- Structured Concurrency (actors, async/await, task)
+- Combine
+- REST service design
+- Authentication
+- SightEngine
+- StreamChat
+  
 <hr>
+
+<img align='left' src="https://github.com/user-attachments/assets/996a7ccf-f222-424b-88a3-864d13ee1170" width="70">
 
 #### [NoiseBoard: 1000 sound effects in your pocket](https://apps.apple.com/si/app/custom-sound-board-noiseboard/id6692608487)
-- Multiplatform project: iOS & iPadOS & macOS
-- Tech stack: Swift, SwiftUI, SwiftData, Combine, AVFoundation, RevenueCat, Mixpanel
+iOS & iPadOS & macOS (Multiplatform project, 1 codebase)
+
+Technology:
+- Swift
+- SwiftUI
+- SwiftData
+- Combine
+- AVFoundation
+- RevenueCat
+- Mixpanel
 
 <hr>
 
+<img align='left' src="https://github.com/user-attachments/assets/19e25e14-d1b6-4a97-9947-fd361eb41e6c" width="70">
+
 #### [OpenNFT Mobile](https://apps.apple.com/si/app/nft-asset-art-maker-opennft/id6443635354)
-- Platform: iOS, iPadOS
-- Tech stack: Swift, SwiftUI, SwiftData, RevenueCat, Mixpanel
-- #1 product of month in WEB3, Top #15 day rank on ProductHunt
+iOS, iPadOS
+
+Technology:
+- Swift
+- SwiftUI
+- SwiftData
+- RevenueCat
+- Mixpanel
+
+#1 product of month in WEB3  |  Top #15 day rank on ProductHunt
 
 <a href="https://www.producthunt.com/products/opennft?embed=true&utm_source=badge-top-post-topic-badge&utm_medium=badge&utm_source=badge-opennft&#0045;mobile" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-topic-badge.svg?post_id=821139&theme=light&period=monthly&topic_id=501&t=1752004525307" alt="OpenNFT&#0032;&#0045;&#0032;Mobile - 1000&#0032;NFT&#0032;assets&#0032;in&#0032;your&#0032;pocket | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 <a href="https://www.producthunt.com/products/opennft?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-opennft&#0045;mobile" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=821139&theme=light&t=1752004525307" alt="OpenNFT&#0032;&#0045;&#0032;Mobile - 1000&#0032;NFT&#0032;assets&#0032;in&#0032;your&#0032;pocket | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 <hr>
 
+<img align='left' src="https://github.com/user-attachments/assets/19e25e14-d1b6-4a97-9947-fd361eb41e6c" width="70">
+
 #### [OpenNFT: Photoshop for NFT](https://apps.apple.com/si/app/nft-asset-art-maker-opennft/id6443635354)
-- Platform: macOS
-- Tech stack: Swift, SwiftUI, SwiftData, Mixpanel
+macOS
+
+Technology:
+- Swift
+- SwiftUI
+- SwiftData
+- Mixpanel
 
 <a href="https://www.producthunt.com/products/opennft?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-opennft" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=384666&theme=light&t=1752004359060" alt="OpenNFT - Photoshop&#0032;for&#0032;NFTs | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a> 
 
 <hr>
 
-#### [TimeScout](https://www.timescoutpro.com)
-- Platform: iOS, iPadOS
-- Tech stack: Swift, SwiftUI, SwiftData, Mixpanel
-- [Basic](https://apps.apple.com/si/app/timescout/id1584949806), [Pro](https://apps.apple.com/si/app/timescoutlife/id1584951815)
+<img align='left' src="https://github.com/user-attachments/assets/14686bcd-b327-40a3-ae1b-fada4660d885" width="70">
+
+#### [TimeScout](https://apps.apple.com/si/app/timescout/id1584949806) | [TimeScoutLIFE](https://apps.apple.com/si/app/timescoutlife/id1584951815)
+iOS, iPadOS
+
+Technology:
+- Swift
+- SwiftUI
+- SwiftData
+- Mixpanel
 
 <a href="https://www.producthunt.com/products/timescout?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-timescout" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=396502&theme=light&t=1752004745442" alt="TimeScout - No&#0032;time&#0063;&#0032;No&#0032;problem | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 <hr>
 
-### 📃 Social
+## 📃 Social
 
 - [Website](https://blauberg.tech)
 - [Medium](https://medium.com/@matej-kokosinek) (under construction 🏗️)
