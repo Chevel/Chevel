@@ -19,21 +19,21 @@
 ## 🛠️ Skills
 
 - <span>
-  <img src="https://img.shields.io/badge/Swift-Informational?style=flat&logo=swift&logoColor=%23F05138&labelColor=%23FFFFFF&color=%23FFFFFF" />
+  <img src="https://img.shields.io/badge/Swift_(8_years)-Informational?style=flat&logo=swift&logoColor=%23F05138&labelColor=%23FFFFFF&color=%23FFFFFF" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/UIKit-Informational?style=flat&logo=uikit&logoColor=%232396F3&color=%23FFFFFF" />
+  <img src="https://img.shields.io/badge/UIKit_(10_years)-Informational?style=flat&logo=uikit&logoColor=%232396F3&color=%23FFFFFF" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SwiftUI-Informational?style=flat&logo=swift&logoColor=%232f6ef4&labelColor=%23FFFFFF&color=%232f6ef4" />
+  <img src="https://img.shields.io/badge/SwiftUI_(5_years)-Informational?style=flat&logo=swift&logoColor=%232f6ef4&labelColor=%23FFFFFF&color=%23FFFFFF" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SwiftData-Informational?style=flat&logo=swift&logoColor=%23d3d3d3&labelColor=%23000000&color=%23FFFFFF" />
+  <img src="https://img.shields.io/badge/SwiftData_(1_year)-Informational?style=flat&logo=swift&logoColor=%23d3d3d3&labelColor=%23000000&color=%23FFFFFF" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/macOS-Informational?style=flat&logo=apple&logoColor=%23000000&labelColor=%23FFFFFF&color=%23000000" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MVC%2FMVVM%2FVIPER-Informational?style=flat&logoColor=%23F05138&label=%F0%9F%A7%B0&labelColor=%23FFFFFF&color=%23FFFFFF" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Git-Informational?style=flat&logo=git&logoColor=%23F05032&labelColor=%23FFFFFF&color=%23FFFFFF" />
+  <img src="https://img.shields.io/badge/Git_(10_years)-Informational?style=flat&logo=git&logoColor=%23F05032&labelColor=%23FFFFFF&color=%23FFFFFF" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Reactive_(Combine%2C%20RxSwift)%20-Informational?style=flat&logoColor=%23F05032&label=%F0%9F%94%81&labelColor=%23FFFFFF&color=%23FFFFFF" />
+  <img src="https://img.shields.io/badge/Reactive_(4_years)_(Combine%2C%20RxSwift)%20-Informational?style=flat&logoColor=%23F05032&label=%F0%9F%94%81&labelColor=%23FFFFFF&color=%23FFFFFF" />
 </span>
 
 - [Hexagonal architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
