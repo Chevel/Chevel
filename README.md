@@ -131,7 +131,7 @@ Technology:
 ## 📃 Social
 
 - [Website](https://blauberg.tech)
-- [Medium](https://medium.com/@matej-kokosinek) (under construction 🏗️)
+- [Medium](https://medium.com/@matej-kokosinek)
 - [Blog](https://blauberg.tech/blog-1/) (under construction 🏗️)
 
 <hr>
