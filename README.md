@@ -5,6 +5,7 @@
 </p>
 
 ## 🧳 History
+- 2026 - Sr. iOS engineer (full-time)
 - 2025 - Contractor (self-employed)
   - iOS Engineer at [Shapegames](https://www.shapegames.com)/[Kambi](https://www.kambi.com)
 - 2023 - iOS engineer at [Kamino](https://www.netcetera.com/stories/news/Kamino-Aquisition.html)
