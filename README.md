@@ -79,6 +79,7 @@ iOS & iPadOS & macOS (Multiplatform project, 1 codebase)
     <td>
       <ul>
         Technology:
+        <li>Liquid Glass</li>
         <li>Swift6.2</li>
         <li>SwiftUI</li>
         <li>Structured Concurrency (actors, async/await, task)</li>
