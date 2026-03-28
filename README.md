@@ -72,7 +72,7 @@ iOS & iPadOS & macOS (Multiplatform project, 1 codebase)
     </td>
   </tr>
   <tr>
-    <td><img width="400" height="400" alt="herohub" src="https://github.com/user-attachments/assets/e666eda3-a023-4561-a0b1-da968bf592a2" /></td>    
+    <td><img width="400" height="400" alt="herohub" src="https://github.com/user-attachments/assets/3be48bb0-bca7-4a0d-bbf3-44e0e41df5f9" /></td>
     <td><img width="400" height="400" alt="noiseboard" src="https://github.com/user-attachments/assets/6be59d37-e0f2-4ab2-97a5-380f2349d3cb" /></td>
   </tr>
   <tr>
