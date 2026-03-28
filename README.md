@@ -13,13 +13,13 @@
     <td>
     <img align='left' src="https://github.com/user-attachments/assets/19e25e14-d1b6-4a97-9947-fd361eb41e6c" width="70">
 
-#### [OpenNFT: Photoshop for NFT](https://apps.apple.com/si/app/nft-asset-art-maker-opennft/id6443635354)
+#### [OpenNFT: Photoshop for NFT](https://github.com/Chevel/OpenNFT)
 iOS, iPadOS, macOS
     </td>
     <td>
     <img align='left' src="https://github.com/user-attachments/assets/14686bcd-b327-40a3-ae1b-fada4660d885" width="70">
 
-#### [TimeScout](https://apps.apple.com/si/app/timescout/id1584949806) | [TimeScoutLIFE](https://apps.apple.com/si/app/timescoutlife/id1584951815)
+#### [TimeScout](https://github.com/Chevel/SwiftUI-TimeScout)
 iOS, iPadOS
     </td>
   </tr>
