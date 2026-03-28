@@ -1,49 +1,8 @@
-<h2> Nice to meet you 👋 </h2>
+<h2> Welcome 👋 </h2>
 
 <p>
-  <em>As a knowledgeable, accomplished, and grounded expert with 10+ years professional experience of the iOS ecosystem, I excel in end-to-end design, development, and optimization of high-quality application features and products.</em>
+  <em>Here are my current updated and maintained projects.</em>
 </p>
-
-## 🧳 History
-- 2026 - Sr. iOS engineer (full-time)
-- 2025 - Contractor (self-employed)
-  - iOS Engineer at [Shapegames](https://www.shapegames.com)/[Kambi](https://www.kambi.com)
-- 2023 - iOS engineer at [Kamino](https://www.netcetera.com/stories/news/Kamino-Aquisition.html)
-  - Payments team - Lead Ethereum R&D on [GlobaliD](https://www.about.global.id/)
-  - Mobile Agency - handling various clients
-- 2018 - iOS engineer at [Sportradar](https://sportradar.com/)
-- 2016 - iOS engineer at [Chipolo](https://chipolo.net/)
-- 2014 - Bachelor of Computer Science (BSc.) [University of Ljubljana](https://www.uni-lj.si)
-
-<br />
-
-## 🛠️ Skills
-
-- <span>
-  <img src="https://img.shields.io/badge/Swift-Informational?style=flat&logo=swift&logoColor=%23F05138&labelColor=%23FFFFFF&color=%23FFFFFF" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/UIKit-Informational?style=flat&logo=uikit&logoColor=%232396F3&color=%23FFFFFF" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SwiftUI-Informational?style=flat&logo=swift&logoColor=%232f6ef4&labelColor=%23FFFFFF&color=%23FFFFFF" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SwiftData-Informational?style=flat&logo=swift&logoColor=%23d3d3d3&labelColor=%23000000&color=%23FFFFFF" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/macOS-Informational?style=flat&logo=apple&logoColor=%23000000&labelColor=%23FFFFFF&color=%23000000" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MVC%2FMVVM%2FVIPER-Informational?style=flat&logoColor=%23F05138&label=%F0%9F%A7%B0&labelColor=%23FFFFFF&color=%23FFFFFF" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Git-Informational?style=flat&logo=git&logoColor=%23F05032&labelColor=%23FFFFFF&color=%23FFFFFF" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Reactive_(Combine%2C%20RxSwift)%20-Informational?style=flat&logoColor=%23F05032&label=%F0%9F%94%81&labelColor=%23FFFFFF&color=%23FFFFFF" />
-</span>
-
-- [Hexagonal architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
-- engineering best practices (SOLID, DRY, YAGNI, CLEAN, KISS)
-- unit testing, problem-solving
-- scrum, kanban, scrum-ban, waterfall
-- mentoring, presentation skills, communication
-
-<br />
 
 ## 📱 Projects
 
@@ -61,7 +20,7 @@ Technology:
 - Authentication
 - SightEngine
 - StreamChat
-  
+
 <hr>
 
 <img align='left' src="https://github.com/user-attachments/assets/996a7ccf-f222-424b-88a3-864d13ee1170" width="70">
@@ -127,15 +86,53 @@ Technology:
 
 <a href="https://www.producthunt.com/products/timescout?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-timescout" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=396502&theme=light&t=1752004745442" alt="TimeScout - No&#0032;time&#0063;&#0032;No&#0032;problem | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
-<hr>
+<br />
+
+## 🛠️ Skills
+
+- <span>
+  <img src="https://img.shields.io/badge/Swift-Informational?style=flat&logo=swift&logoColor=%23F05138&labelColor=%23FFFFFF&color=%23FFFFFF" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/UIKit-Informational?style=flat&logo=uikit&logoColor=%232396F3&color=%23FFFFFF" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SwiftUI-Informational?style=flat&logo=swift&logoColor=%232f6ef4&labelColor=%23FFFFFF&color=%23FFFFFF" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SwiftData-Informational?style=flat&logo=swift&logoColor=%23d3d3d3&labelColor=%23000000&color=%23FFFFFF" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/macOS-Informational?style=flat&logo=apple&logoColor=%23000000&labelColor=%23FFFFFF&color=%23000000" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MVC%2FMVVM%2FVIPER-Informational?style=flat&logoColor=%23F05138&label=%F0%9F%A7%B0&labelColor=%23FFFFFF&color=%23FFFFFF" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git-Informational?style=flat&logo=git&logoColor=%23F05032&labelColor=%23FFFFFF&color=%23FFFFFF" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Reactive_(Combine%2C%20RxSwift)%20-Informational?style=flat&logoColor=%23F05032&label=%F0%9F%94%81&labelColor=%23FFFFFF&color=%23FFFFFF" />
+</span>
+
+- [Hexagonal architecture](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
+- engineering best practices (SOLID, DRY, YAGNI, CLEAN, KISS)
+- unit testing, problem-solving
+- scrum, kanban, scrum-ban, waterfall
+- mentoring, presentation skills, communication
+
+<br />
+
+## 🧳 History
+- 2026 - Sr. iOS engineer (full-time)
+- 2025 - Contractor (self-employed)
+  - iOS Engineer at [Shapegames](https://www.shapegames.com)/[Kambi](https://www.kambi.com)
+- 2023 - iOS engineer at [Kamino](https://www.netcetera.com/stories/news/Kamino-Aquisition.html)
+  - Payments team - Lead Ethereum R&D on [GlobaliD](https://www.about.global.id/)
+  - Mobile Agency - handling various clients
+- 2018 - iOS engineer at [Sportradar](https://sportradar.com/)
+- 2016 - iOS engineer at [Chipolo](https://chipolo.net/)
+- 2014 - Bachelor of Computer Science (BSc.) [University of Ljubljana](https://www.uni-lj.si)
+
+<br />
 
 ## 📃 Social
 
 - [Website](https://blauberg.tech)
 - [Medium](https://medium.com/@matej-kokosinek)
-- [Blog](https://blauberg.tech/blog-1/) (under construction 🏗️)
-
-<hr>
 
 <p align="center">
    Happy to stay in touch, open to new opportunities and collaborations.
