@@ -1,10 +1,10 @@
 <h2> Welcome 👋 </h2>
 
+## 📱 Projects
 <p>
   <em>Here are some of my showcase projects.</em>
 </p>
 
-## 📱 Projects
 
 ### Open Source
 
@@ -50,6 +50,31 @@ iOS, iPadOS
         </ul>
         <ul>
 <a href="https://www.producthunt.com/products/timescout?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-timescout" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=396502&theme=light&t=1752004745442" alt="TimeScout - No&#0032;time&#0063;&#0032;No&#0032;problem | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+        </ul>
+    </td>
+</table>
+
+### AI / Agentic coding / Vibe coding
+
+<table>
+  <tr>
+    <td>
+
+#### [AgenticFrantic: Vibe coded iOS project](https://github.com/Chevel/AgenticFrantic)
+iOS, iPadOS
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img width="400" height="400" alt="thumbnail" src="https://github.com/user-attachments/assets/018bf518-f870-4224-85c1-ac7a87b427a4" />
+    </td>    
+  </tr>
+      <td>
+        <ul>
+          <li>Claude (Opus 4.6)</li>
+          <li>SKILLS.md</li>
+          <li>CLAUDE.md</li>
+          <li>implementation-plan.md</li>
         </ul>
     </td>
 </table>
