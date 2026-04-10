@@ -109,6 +109,7 @@ iOS & iPadOS & macOS (Multiplatform project, 1 codebase)
         <li>SwiftUI</li>
         <li>Structured Concurrency (actors, async/await, task)</li>
         <li>Combine</li>
+        <li>APNS (Push notifications)</li>
         <li>REST service design</li>
         <li>Authentication</li>
         <li>SightEngine</li>
