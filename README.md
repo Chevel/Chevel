@@ -24,8 +24,8 @@ iOS, iPadOS
     </td>
   </tr>
   <tr>
-    <td><img width="400" height="400" alt="OpenNFT" src="https://github.com/user-attachments/assets/6a0ebc6f-c327-4f68-b877-119c82f68e8e" /></td>    
-    <td><img width="400" height="400" alt="TimeScout" src="https://github.com/user-attachments/assets/7c5c1069-0163-48ce-9098-2cef3b02ba38" /></td>
+    <td><img width="400" alt="OpenNFT" src="https://github.com/user-attachments/assets/6a0ebc6f-c327-4f68-b877-119c82f68e8e" /></td>    
+    <td><img width="400" alt="TimeScout" src="https://github.com/user-attachments/assets/7c5c1069-0163-48ce-9098-2cef3b02ba38" /></td>
   </tr>
       <td>
         <ul>
@@ -66,7 +66,7 @@ iOS, iPadOS
   </tr>
   <tr>
     <td>
-      <img width="400" height="400" alt="thumbnail" src="https://github.com/user-attachments/assets/018bf518-f870-4224-85c1-ac7a87b427a4" />
+      <img width="400" alt="thumbnail" src="https://github.com/user-attachments/assets/018bf518-f870-4224-85c1-ac7a87b427a4" />
     </td>    
   </tr>
       <td>
@@ -97,8 +97,8 @@ iOS & iPadOS & macOS (Multiplatform project, 1 codebase)
     </td>
   </tr>
   <tr>
-    <td><img width="400" height="400" alt="herohub" src="https://github.com/user-attachments/assets/3be48bb0-bca7-4a0d-bbf3-44e0e41df5f9" /></td>
-    <td><img width="400" height="400" alt="noiseboard" src="https://github.com/user-attachments/assets/9105b82d-162d-46e0-8c11-1da840ec8bc2" /></td>
+    <td><img width="400" alt="herohub" src="https://github.com/user-attachments/assets/3be48bb0-bca7-4a0d-bbf3-44e0e41df5f9" /></td>
+    <td><img width="400" alt="noiseboard" src="https://github.com/user-attachments/assets/9105b82d-162d-46e0-8c11-1da840ec8bc2" /></td>
   </tr>
   <tr>
     <td>
